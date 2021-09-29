@@ -16,6 +16,9 @@ partners:
 - [Global Phasing Ltd.](http://www.globalphasing.com/)
 - [ALBA](https://www.cells.es/en/)
 - [DESY](https://www.desy.de/)
+- [LNLS](https://www.lnls.cnpem.br/)
+- [Elettra] (https://www.elettra.trieste.it/)
+- [NSRRC] (https://www.nsrrc.org.tw/english/index.aspx)
 
 Latest information about the MXCuBE project can be found in the
 [project webpage](http://mxcube.github.io/mxcube/).
@@ -40,12 +43,15 @@ along with MXCuBE. If not, see <https://www.gnu.org/licenses/>.
 
 ## Information for users
 
-- [User manual](https://github.com/mxcube/mxcubeqt/blob/master/docs/manual/MXCuBE2_1_manual_march2015-v2.pdf).
+- [User Manual MXCuBE3](https://www.esrf.fr/mxcube3)
+- [User manual MXCuBE2](https://github.com/mxcube/mxcubeqt/blob/master/docs/manual/MXCuBE2_1_manual_march2015-v2.pdf).
 - [Feature overview](https://github.com/mxcube/mxcubeqt/blob/master/docs/source/feature_overview.rst)
 - [Overview of Graphical user interface](https://github.com/mxcube/mxcubeqt/blob/master/docs/source/gui_overview.rst)
-- If you cite MXCuBE, please use the reference:
+- If you cite MXCuBE, please use the references:
 
 ```
+Oscarsson, M. et al. 2019. “MXCuBE2: The Dawn of MXCuBE Collaboration.” Journal of Synchrotron Radiation 26 (Pt 2): 393–405.
+
 Gabadinho, J. et al. (2010). MxCuBE: a synchrotron beamline control environment customized for macromolecular crystallography experiments. J. Synchrotron Rad. 17, 700-707
 ```
 
