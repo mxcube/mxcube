@@ -17,8 +17,8 @@ partners:
 - [ALBA](https://www.cells.es/en/)
 - [DESY](https://www.desy.de/)
 - [LNLS](https://www.lnls.cnpem.br/)
-- [Elettra] (https://www.elettra.trieste.it/)
-- [NSRRC] (https://www.nsrrc.org.tw/english/index.aspx)
+- [Elettra](https://www.elettra.trieste.it/)
+- [NSRRC](https://www.nsrrc.org.tw/english/index.aspx)
 
 Latest information about the MXCuBE project can be found in the
 [project webpage](http://mxcube.github.io/mxcube/).
