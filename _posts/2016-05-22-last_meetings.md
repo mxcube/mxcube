@@ -7,6 +7,9 @@ fa-icon: users
 
 # Past meetings
 
+- [18th. MXCuBE virtual meeting organized by Elettra, 26-27.10.2021](doc/past_meetings/2021_elettra/index.html)
+- [17th. MXCuBE virtual meeting organized by EMBL Hamburg and DESY, 18.-19.05.2021](doc/past_meetings/2021_embl_desy/index.html)
+- [16th. MXCuBE virtual meeting organized by HZB and MAXIV, 17.-18.11.2020](doc/past_meetings/2020_maxiv_hzb/index.html)
 - [15th. MXCuBE virtual meeting organized by ALBA, 29.-30.06.2020](doc/past_meetings/2020_alba/index.html)
 - [14th. MXCuBE meeting @ HZB  (Berlin, Germany), 31.10-02.11.2019](doc/past_meetings/2019_hzb/index.html)
 - [13th. MXCuBE meeting @ MAXIV  (Lund, Sweeden), 12-14.03.2019](doc/past_meetings/2019_maxiv/index.html)
