@@ -5,4 +5,4 @@ color: white
 fa-icon: users 
 ---
 
-# Next MXCuBE meeting organized by ESRF, Spring 2022
+# Next MXCuBE meeting organized by MAX-IV, Spring 2024
