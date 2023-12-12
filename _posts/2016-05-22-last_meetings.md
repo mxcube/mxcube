@@ -9,7 +9,7 @@ fa-icon: users
 - [22nd. MXCuBE meeting organized by ALBA, 28-30.11.2023](doc/past_meetings/2023_november_alba/index.html)
 - [21st. MXCuBE meeting organized by SOEIL, 26-27.05.2023](doc/past_meetings/2023_may_soleil/index.html)
 - [20th. MXCuBE meeting organized by ESRF, 26-27.10.2022](doc/past_meetings/2022_october_esrf/index.html)
-- [29th. MXCuBE virtual meeting organized by ESRF, 17-18.05.2022](doc/past_meetings/2022_may_esrf/index.html)
+- [19th. MXCuBE virtual meeting organized by ESRF, 17-18.05.2022](doc/past_meetings/2022_may_esrf/index.html)
 - [18th. MXCuBE virtual meeting organized by Elettra, 26-27.10.2021](doc/past_meetings/2021_elettra/index.html)
 - [17th. MXCuBE virtual meeting organized by EMBL Hamburg and DESY, 18.-19.05.2021](doc/past_meetings/2021_embl_desy/index.html)
 - [16th. MXCuBE virtual meeting organized by HZB and MAXIV, 17.-18.11.2020](doc/past_meetings/2020_maxiv_hzb/index.html)
