@@ -6,7 +6,7 @@ fa-icon: users
 ---
 
 # Past meetings
-- [22nd. MXCuBE meeting organized by ALBA, 28-30.11.2023](doc/past_meetings/2023_november_alba/index.html)
+- [22nd. MXCuBE meeting organized by ALBA, 28-30.11.2023](doc/past_meetings/2023_alba/index.html)
 - [21st. MXCuBE meeting organized by SOEIL, 26-27.05.2023](doc/past_meetings/2023_may_soleil/index.html)
 - [20th. MXCuBE meeting organized by ESRF, 26-27.10.2022](doc/past_meetings/2022_october_esrf/index.html)
 - [19th. MXCuBE virtual meeting organized by ESRF, 17-18.05.2022](doc/past_meetings/2022_may_esrf/index.html)
