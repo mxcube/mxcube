@@ -19,6 +19,10 @@ partners:
 - [LNLS](https://www.lnls.cnpem.br/)
 - [Elettra](https://www.elettra.trieste.it/)
 - [NSRRC](https://www.nsrrc.org.tw/english/index.aspx)
+- [ARINAX](https://www.arinax.com)
+- [ANSTO](https://www.ansto.gov.au/facilities/australian-synchrotron)
+- [NFPSS](http://english.sari.cas.cn)
+- [ESS](https://europeanspallationsource.se/)
 
 Latest information about the MXCuBE project can be found in the
 [project webpage](http://mxcube.github.io/mxcube/).
